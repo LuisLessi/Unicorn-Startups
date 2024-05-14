@@ -5,4 +5,12 @@
  #  Análises gráficas:
 
  
+ <img src="/imgs/1.png">
+ <hr>
+ <img src="/imgs/2.png">
+ <hr>
+ <img src="/imgs/3.png">
+ <hr>
+ <img src="/imgs/4.png">
+
 
